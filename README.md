@@ -34,4 +34,4 @@
   <a href="https://github.com/PierreCounathe/Real-Estate-Pricing-Optimization-Under-Financial-Constraints">link to repository</a>
 </details>
 
-<img src="https://raw.githubusercontent.com/PierreCounathe/PierreCounathe/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PierreCounathe/PierreCounathe/output/github-contribution-grid-snake.svg" alt="Snake animation" />
