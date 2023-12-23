@@ -1,6 +1,3 @@
-## 🔭 Current focus
-- NLP and Transformers
-
 ## ⏱️ Past Projects
 
 <details>
