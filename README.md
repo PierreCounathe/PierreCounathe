@@ -1,3 +1,12 @@
+## 🤓 Currently Working on
+
+<details>
+  <summary>🇺🇸🇫🇷 Transformer From Scratch</summary>
+Implementing the Transformer from "Attention is all you need" with PyTorch.
+  
+  <a href="https://github.com/PierreCounathe/Transformer-From-Scratch">link to repository</a>
+</details>
+
 ## ⏱️ Past Projects
 
 <details>
