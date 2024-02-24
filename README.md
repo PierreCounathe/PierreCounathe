@@ -1,4 +1,4 @@
-## 🤓 Currently Working on
+## Currently Working on
 
 <details>
   <summary>🇺🇸🇫🇷 Transformer From Scratch</summary>
@@ -7,7 +7,14 @@ Implementing the Transformer from "Attention is all you need" with PyTorch.
   <a href="https://github.com/PierreCounathe/Transformer-From-Scratch">link to repository</a>
 </details>
 
-## ⏱️ Past Projects
+<details>
+  <summary>🚚 Gym Routing</summary>
+A collection of gym environments to train RL Agents on routing problems.
+  
+  <a href="https://github.com/PierreCounathe/gym-routing">link to repository</a>
+</details>
+
+## Past Projects
 
 <details>
   <summary>🤖 NumPy Q-Learning Agent masters a mathematical game</summary>
