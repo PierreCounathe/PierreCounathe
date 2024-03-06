@@ -10,7 +10,3 @@
 - **Droughts Forecasting** [`lstm`]: Forecast droughts in the US with a 6-week lead time using weather time series and static soil data [repo](https://github.com/PierreCounathe/Droughts-Forecasting)
 - **Image Completion** [`gan`]: This model can effectively replace a nose or an eye on faces, and fill missing parts of portraits [repo](https://github.com/PierreCounathe/Globally-and-Locally-Consistent-Image-Completion-Pytorch-Implementation)
 - **Dynamic Pricing Optimization** [`ml`, `optimization`]: Optimize Real Estate prices dynamically to meet financial constraints and deadlines (loan repayment dates) and maximize revenues [repo](https://github.com/PierreCounathe/Real-Estate-Pricing-Optimization-Under-Financial-Constraints)
-  
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green.svg" width="500">
-</p>
