@@ -1,4 +1,8 @@
-## Currently Working on
+# Hi there 👋
+
+Here is a list of ongoing and past projects I've been working on during my free time.
+
+## Ongoing projects
 
 - **gym-routing** [`rl`, `graphs`]: Solving the Traveling Salesman Prolem with `gym` and `stable-baselines3` [repo](https://github.com/PierreCounathe/gym-routing)
 - **Transformer from scratch** [`nlp, transformers`]: Implementing an encoder-decoder Transformer from scratch using Pytorch [repo](https://github.com/PierreCounathe/Transformer-From-Scratch)
