@@ -4,7 +4,7 @@ Here is a list of ongoing and past projects I've been working on during my free 
 
 ## Ongoing projects
 
-- **gym-routing** [`rl`, `graphs`]: Solving the Traveling Salesman Prolem with `gym` and `stable-baselines3` [repo](https://github.com/PierreCounathe/gym-routing)
+- **gym-routing** [`rl`, `graphs`]: Solving the Traveling Salesman Prolem with reinforcement-learning using `gym` and `stable-baselines3` [repo](https://github.com/PierreCounathe/gym-routing)
 - **simple-implementations** [`llm`, `computer-vision`]: Implementing ML and DL concepts (Transformer, LoRA, NeRF) from scratch [repo](https://github.com/PierreCounathe/simple-implementations)
 
 ## Previous Projects
